@@ -1,2 +1,2 @@
 # tkinter-login-form
-A simple Python Tkinter GUI application that collects username and password
+A simple Python Tkinter GUI application that
