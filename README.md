@@ -15,12 +15,3 @@ The app allows users to enter a username and password and displays the entered d
 
 - Python 3
 - Tkinter (Built-in Python GUI library)
-
-## 🚀 How to Run
-
-1. Make sure Python is installed on your system.
-2. Save the file as `app.py`
-3. Open terminal or command prompt.
-4. Run:
-
-```bash
